@@ -1,0 +1,12 @@
+# Eclipse and IDE files
+.metadata/
+*/.metadata/
+sts-5.4.0.RELEASE/
+*.zip
+
+# Build directories
+target/
+**/target/
+
+# Log files
+*.log
